@@ -1,7 +1,4 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-<!--
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
--->
 
 ### awesome electric energy control software and hardware
 
@@ -31,9 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-<!--
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 -->
