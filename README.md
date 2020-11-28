@@ -1,18 +1,20 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-### awesome electric energy control software and hardware
+### Awesome energy control app software and hardware
 
-I’m currently working on ...
+I’m currently working on 
 
-I’m currently learning ...
+https://energycontrolapp.github.io/
 
-I’m looking to collaborate on ...
+I’m currently learning 
 
-I’m looking for help with ...
+I’m looking to collaborate on 
 
-Ask me about ...
+I’m looking for help with 
 
-How to reach me: ...
+Ask me about 
+
+How to reach me
 
 
 <!--
