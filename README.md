@@ -1,4 +1,9 @@
-### Hi there !
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<!--
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+-->
+
+### awesome electric energy control software and hardware
 
 I’m currently working on ...
 
