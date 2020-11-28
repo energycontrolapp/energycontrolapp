@@ -32,3 +32,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<!--
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+-->
