@@ -1,5 +1,5 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-### EnergyControlApp.GitHub.io
+### energycontrolapp.github.io
 
 https://energycontrolapp.github.io/
